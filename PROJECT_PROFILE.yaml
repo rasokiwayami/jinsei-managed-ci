@@ -1,6 +1,6 @@
 schema_version: 6
 project:
-  repo: shieikan/jinsei-managed-ci
+  repo: rasokiwayami/jinsei-managed-ci
   type: public_ci_maintenance
   authority:
     allowed_actions:

@@ -29,7 +29,7 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@0000000000000000000000000000000000000000
-      - uses: shieikan/jinsei-managed-ci@0000000000000000000000000000000000000000
+      - uses: rasokiwayami/jinsei-managed-ci@0000000000000000000000000000000000000000
         with:
           profile_path: PROJECT_PROFILE.yaml
 ```
